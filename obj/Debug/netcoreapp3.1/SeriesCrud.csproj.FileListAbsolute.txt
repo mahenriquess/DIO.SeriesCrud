@@ -1,0 +1,13 @@
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\obj\Debug\netcoreapp3.1\SeriesCrud.csprojAssemblyReference.cache
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\obj\Debug\netcoreapp3.1\SeriesCrud.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\obj\Debug\netcoreapp3.1\SeriesCrud.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\obj\Debug\netcoreapp3.1\SeriesCrud.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\bin\Debug\netcoreapp3.1\SeriesCrud.exe
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\bin\Debug\netcoreapp3.1\SeriesCrud.deps.json
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\bin\Debug\netcoreapp3.1\SeriesCrud.runtimeconfig.json
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\bin\Debug\netcoreapp3.1\SeriesCrud.runtimeconfig.dev.json
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\bin\Debug\netcoreapp3.1\SeriesCrud.dll
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\bin\Debug\netcoreapp3.1\SeriesCrud.pdb
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\obj\Debug\netcoreapp3.1\SeriesCrud.dll
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\obj\Debug\netcoreapp3.1\SeriesCrud.pdb
+D:\PROGRAMAÇÃO\WORKSPACES\C#\SeriesCrud\obj\Debug\netcoreapp3.1\SeriesCrud.genruntimeconfig.cache
