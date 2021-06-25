@@ -26,8 +26,8 @@ namespace SeriesCrud
             retorno += "Gênero: " + this.Gender + Environment.NewLine;
             retorno += "Titulo: " + this.Title + Environment.NewLine;
             retorno += "Descrição: " + this.Description + Environment.NewLine;
-            retorno += "Ano de Início: " + this.Year + Environment.NewLine;
-            retorno += "Excluido: " + this.Deleted; 
+            retorno += "Ano: " + this.Year + Environment.NewLine;
+            retorno += "Excluido: " + (this.Deleted ? "Sim": "Não"); 
 			return retorno;
 		}
         
@@ -36,6 +36,15 @@ namespace SeriesCrud
         }
         public int returnId(){
             return this.Id;
+        }
+        public Gender returnGender(){
+            return this.Gender;
+        }
+        public string returnDescription(){
+            return this.Description;
+        }
+        public int returnYear(){
+            return this.Year;
         }
         public bool returnDeleted(){
             return this.Deleted;
